@@ -149,7 +149,7 @@ session_start();
                 <div class="col-lg-4 col-md-6 mb-4 mt-4 hover">
                   <div class="card h-100">
                      <div class="">
-                         <img class="card-img-top" style="width:350px;height:200px;" src="../backend/admin/uploads/<?php echo $tampilproduk['img_path']; ?>" alt="">
+                         <img class="card-img-top" style="width:350px;height:200px;" src="admin/uploads/<?php echo $tampilproduk['img_path']; ?>" alt="">
                       </div>
                                     
                         <div class="card-body">
