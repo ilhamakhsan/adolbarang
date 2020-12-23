@@ -1,0 +1,14 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/templates/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+.shadow{
+  -webkit-box-shadow: 0 1px 48px 0 rgba(0, 0, 0, 0.06);
+  -moz-box-shadow: 0 1px 48px 0 rgba(0, 0, 0, 0.06);
+    box-shadow: 0 1px 48px 0 rgba(0, 0, 0, 0.06);
+}
+
