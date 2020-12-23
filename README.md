@@ -16,6 +16,7 @@ contoh
 $config['base_url'] = 'http://localhost/di isi url anda/admin'
 
 4 import database backend.sql ke database server anda
+
 5 ubah dan sesuaikan semua url api cek ongkir yang ada di file checkout.php
 
 setingan awal url : 'http://localhost/adolbarang/ongkir_proses/cek_kabupaten.php',
