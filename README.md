@@ -10,6 +10,7 @@ panduan singkat instalasi e commerce adolbarang
 dengan url anda 
 contoh
 $config['base_url'] = 'http://localhost/di isi url anda/admin'
+
 4 import database backend.sql ke database server anda
 
 5 sesuaikan konfigurasi koneksi database yang berada pada file config.php pada direktori adolbarang
