@@ -4,6 +4,8 @@ KP TEGAL 2020
 
 panduan singkat instalasi e commerce adolbarang
 
+tutorial youtube https://youtu.be/9_wY9f0h7zM 
+
 1. copy folder adolbarang
 2. pastekan folder adolbarang di folder htdoc pada server
 3. ubah konfigurasi base_ur di folder admin/aplication/config/config.php
